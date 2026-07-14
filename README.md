@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Admissions Portal
 
 A full-stack admissions application for Dr. Harisingh Gour Vishwavidyalaya, Sagar.
@@ -84,3 +85,6 @@ on uploads, and role-gated frontend routes via `ProtectedRoute`.
 - Add refresh tokens / token expiry handling in the UI
 - Deploy: frontend to Vercel/Netlify, backend to Render/Railway, and update
   `CLIENT_URL` (backend) and the Vite proxy / API base URL (frontend) accordingly
+=======
+<h1> This is college </h1>
+>>>>>>> 7b6b2707e1e9741e61b7bb7e2158d804b3efd9cc
